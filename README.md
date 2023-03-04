@@ -1,4 +1,4 @@
-# Nature City Policy
+# Nature Town Policy
 
 
 Our AR applications need permissions of **camera**.
